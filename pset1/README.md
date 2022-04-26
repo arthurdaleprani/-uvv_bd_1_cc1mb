@@ -19,7 +19,7 @@ SET search_path TO elmasri, "$user", public;`
 
 Sendo assim digitei:
 `\c uvv`
-e colei o script do Architect, apos isso passei tudo para o DBver, e voltei a o terminal, e coloquei os dados dentro das colunas.
+e colei o script do Architect, apos isso passei tudo para o DBver, e voltei a o terminal, e coloquei os dados dentro das colunas com o `INSERT INTO`
 
 
-MARIADB:
+MARIADB: Primeiro criei o user com CREATE USER `'arthur'@localhost IDENTIFIED BY 'senha';` e garanti os privilegios com `GRANT ALL PRIVILEGES ON *.* TO 'user1'@localhost IDENTIFIED BY 'password1';`
