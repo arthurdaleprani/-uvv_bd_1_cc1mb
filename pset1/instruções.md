@@ -1,10 +1,3 @@
-# PSET1 ARTHUR
-### Aluno: Arthur Daleprani
-### Professor: Abrantes Araujo Silva FIlho
-### Monitora: Suelen 
-
-
-
 
 # POSTGRES SQL:
 
