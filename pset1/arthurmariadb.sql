@@ -1,6 +1,7 @@
 CREATE USER 'arthur'@localhost identified BY 'senha'
 GRANT ALL privileages ON *.*TO 'arthur'@localhost IDENTIFIED BY 'senha' 
-
+CREATE DATABASE uvv;
+USE uvv;
 CREATE TABLE funcionario (
                 cpf CHAR(11) NOT NULL,
                 primeiro_nome VARCHAR(15) NOT NULL,
