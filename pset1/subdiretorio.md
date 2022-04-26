@@ -1,1 +1,3 @@
 # OQUE É UM SUBDIRETORIO:
+É um tipo de pasta, que é categorizada como SUB, logo ela está dentro de um diretorio, que dentro contem arquivos, sobre o diretorio, dominio, etc...
+isso serve para organizar, e modelar o diretorio.
